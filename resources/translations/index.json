@@ -1,0 +1,12 @@
+{
+  "formatVersion": 1,
+  "type": "translations",
+  "items": [
+    {
+      "id": "web",
+      "displayName": "World English Bible",
+      "lang": "en",
+      "path": "resources/translations/web.json"
+    }
+  ]
+}

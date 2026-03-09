@@ -1,0 +1,24 @@
+{
+  "formatVersion": 1,
+  "type": "language-packs",
+  "items": [
+    {
+      "id": "cs",
+      "displayName": "Czech",
+      "lang": "cs",
+      "path": "resources/language-packs/cs.json"
+    },
+    {
+      "id": "en",
+      "displayName": "English",
+      "lang": "en",
+      "path": "resources/language-packs/en.json"
+    },
+    {
+      "id": "fr",
+      "displayName": "French",
+      "lang": "fr",
+      "path": "resources/language-packs/fr.json"
+    }
+  ]
+}

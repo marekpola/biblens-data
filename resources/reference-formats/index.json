@@ -1,0 +1,18 @@
+{
+  "formatVersion": 1,
+  "type": "reference-formats",
+  "items": [
+    {
+      "id": "cs-cek",
+      "displayName": "Czech (Český ekumenický komentář)",
+      "lang": "cs",
+      "path": "resources/reference-formats/cs-cek.json"
+    },
+    {
+      "id": "en-sbl",
+      "displayName": "English (SBL style)",
+      "lang": "en",
+      "path": "resources/reference-formats/en-sbl.json"
+    }
+  ]
+}
