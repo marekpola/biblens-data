@@ -9,10 +9,64 @@
       "path": "resources/reference-formats/cs-cek.json"
     },
     {
+      "id": "cs-ekumenicky",
+      "displayName": "Czech (ecumenical style)",
+      "lang": "cs",
+      "path": "resources/reference-formats/cs-ekumenicky.json"
+    },
+    {
+      "id": "cs-liturgicky",
+      "displayName": "Czech (liturgical style)",
+      "lang": "cs",
+      "path": "resources/reference-formats/cs-liturgicky.json"
+    },
+    {
+      "id": "de-catholic",
+      "displayName": "German (Catholic style)",
+      "lang": "de",
+      "path": "resources/reference-formats/de-catholic.json"
+    },
+    {
+      "id": "de-luther",
+      "displayName": "German (Luther / German Bible style)",
+      "lang": "de",
+      "path": "resources/reference-formats/de-luther.json"
+    },
+    {
+      "id": "de-standard",
+      "displayName": "German (standard style)",
+      "lang": "de",
+      "path": "resources/reference-formats/de-standard.json"
+    },
+    {
+      "id": "en-common",
+      "displayName": "English (common style)",
+      "lang": "en",
+      "path": "resources/reference-formats/en-common.json"
+    },
+    {
       "id": "en-sbl",
       "displayName": "English (SBL style)",
       "lang": "en",
       "path": "resources/reference-formats/en-sbl.json"
+    },
+    {
+      "id": "fr-jerusalem",
+      "displayName": "French (Bible de Jérusalem style)",
+      "lang": "fr",
+      "path": "resources/reference-formats/fr-jerusalem.json"
+    },
+    {
+      "id": "fr-standard",
+      "displayName": "French (standard style)",
+      "lang": "fr",
+      "path": "resources/reference-formats/fr-standard.json"
+    },
+    {
+      "id": "fr-tob",
+      "displayName": "French (TOB / francophone academic style)",
+      "lang": "fr",
+      "path": "resources/reference-formats/fr-tob.json"
     }
   ]
 }

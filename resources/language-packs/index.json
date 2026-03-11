@@ -9,6 +9,12 @@
       "path": "resources/language-packs/cs.json"
     },
     {
+      "id": "de",
+      "displayName": "German",
+      "lang": "de",
+      "path": "resources/language-packs/de.json"
+    },
+    {
       "id": "en",
       "displayName": "English",
       "lang": "en",
